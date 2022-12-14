@@ -1,0 +1,22 @@
+id: ACF46C0B2
+title: Toh_337-Wheel_of_Dharma-v1
+type: translation
+pechas:
+- I1D4D5AF5
+- I2180D346
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-09-26T08:40:02.862Z'
+  creationid: mabja
+  eft-text-id: UT22084-072-037
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_337-Wheel_of_Dharma-v1
+alignment_to_base:
+  I1D4D5AF5/4C42: 07F2
+  I2180D346/D929: 07F2
